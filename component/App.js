@@ -1,5 +1,5 @@
-import html from "../core.js";
-import { connect } from "../store.js";
+import html from "../js/core.js";
+import { connect } from "../js/store.js";
 import Header from "./Header.js";
 import TodoList from "./TodoList.js";
 import Footer from "./Footer.js";

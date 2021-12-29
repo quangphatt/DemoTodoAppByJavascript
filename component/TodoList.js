@@ -1,5 +1,5 @@
-import html from "../core.js";
-import {connect} from '../store.js'
+import html from "../js/core.js";
+import {connect} from '../js/store.js'
 import TodoItem from "./TodoItem.js";
 
 function TodoList({todos,filter,filters}) {
